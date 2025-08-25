@@ -1,1 +1,11 @@
-[]
+[
+    {
+        "id" : 1, 
+    "title" : "Orale",
+    "artist" : "Gilli",
+    "coverpath" : "/covers/gilli_orale.jpg",
+    "songpath" : "/songs/gilli_orale.mp3"
+
+    }
+]
+
